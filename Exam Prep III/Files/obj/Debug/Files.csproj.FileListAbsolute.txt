@@ -1,1 +1,6 @@
 D:\SoftUniC#\Exam Prep III\Files\bin\Debug\Files.exe.config
+D:\SoftUniC#\Exam Prep III\Files\bin\Debug\Files.exe
+D:\SoftUniC#\Exam Prep III\Files\bin\Debug\Files.pdb
+D:\SoftUniC#\Exam Prep III\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+D:\SoftUniC#\Exam Prep III\Files\obj\Debug\Files.exe
+D:\SoftUniC#\Exam Prep III\Files\obj\Debug\Files.pdb
